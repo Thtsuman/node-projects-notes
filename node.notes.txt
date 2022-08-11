@@ -1,0 +1,7 @@
+* node introduce in 2009
+* developed by Ryan Dahl 
+* based on V8 engine, powerd by google
+* to work with JS files outside the browser
+    we use v8 engine and libuv (for asyncronus calls)
+    node sit in between v8 engine and libuv
+* node is an asynchronous event-driven JavaScript runtime 
